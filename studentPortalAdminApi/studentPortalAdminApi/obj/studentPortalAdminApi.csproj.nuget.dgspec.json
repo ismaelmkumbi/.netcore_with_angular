@@ -1,0 +1,73 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\LIFE\\My career trainer\\Build Amazing Apps With ANGULAR and ASPNET Core REST API\\project\\.netcore_with_angular\\studentPortalAdminApi\\studentPortalAdminApi\\studentPortalAdminApi.csproj": {}
+  },
+  "projects": {
+    "E:\\LIFE\\My career trainer\\Build Amazing Apps With ANGULAR and ASPNET Core REST API\\project\\.netcore_with_angular\\studentPortalAdminApi\\studentPortalAdminApi\\studentPortalAdminApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\LIFE\\My career trainer\\Build Amazing Apps With ANGULAR and ASPNET Core REST API\\project\\.netcore_with_angular\\studentPortalAdminApi\\studentPortalAdminApi\\studentPortalAdminApi.csproj",
+        "projectName": "studentPortalAdminApi",
+        "projectPath": "E:\\LIFE\\My career trainer\\Build Amazing Apps With ANGULAR and ASPNET Core REST API\\project\\.netcore_with_angular\\studentPortalAdminApi\\studentPortalAdminApi\\studentPortalAdminApi.csproj",
+        "packagesPath": "C:\\Users\\ismael.mkumbi\\.nuget\\packages\\",
+        "outputPath": "E:\\LIFE\\My career trainer\\Build Amazing Apps With ANGULAR and ASPNET Core REST API\\project\\.netcore_with_angular\\studentPortalAdminApi\\studentPortalAdminApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ismael.mkumbi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://10.0.63.123/defaultcollection/24757469-3ae6-4d47-8422-0fa72ed2a82b/_packaging/TraAuthorizationNUGETFeed/nuget/v3/index.json": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

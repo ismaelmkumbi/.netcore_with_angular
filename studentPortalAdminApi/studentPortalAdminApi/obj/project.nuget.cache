@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "T9C42a0UT2bFXsJYRYU0UakTO5oLhto66+ncHKboS1OyzylEqEoCcgsOf3TDu8ia1BFqdjSLaDKwAgTN9JXWWg==",
+  "success": true,
+  "projectFilePath": "E:\\LIFE\\My career trainer\\Build Amazing Apps With ANGULAR and ASPNET Core REST API\\project\\.netcore_with_angular\\studentPortalAdminApi\\studentPortalAdminApi\\studentPortalAdminApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ismael.mkumbi\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\ismael.mkumbi\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\ismael.mkumbi\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\ismael.mkumbi\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\ismael.mkumbi\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\ismael.mkumbi\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://10.0.63.123/defaultcollection/24757469-3ae6-4d47-8422-0fa72ed2a82b/_packaging/TraAuthorizationNUGETFeed/nuget/v3/index.json'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}

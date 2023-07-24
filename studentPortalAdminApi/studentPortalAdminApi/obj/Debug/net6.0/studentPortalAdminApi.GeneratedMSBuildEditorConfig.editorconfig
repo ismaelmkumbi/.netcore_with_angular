@@ -1,0 +1,17 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = studentPortalAdminApi
+build_property.RootNamespace = studentPortalAdminApi
+build_property.ProjectDir = E:\LIFE\My career trainer\Build Amazing Apps With ANGULAR and ASPNET Core REST API\project\.netcore_with_angular\studentPortalAdminApi\studentPortalAdminApi\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = E:\LIFE\My career trainer\Build Amazing Apps With ANGULAR and ASPNET Core REST API\project\.netcore_with_angular\studentPortalAdminApi\studentPortalAdminApi
+build_property._RazorSourceGeneratorDebug = 
